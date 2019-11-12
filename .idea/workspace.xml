@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62dd638b-fe13-4449-96ab-a0c9bf409247" name="Default Changelist" comment="" />
+    <list default="true" id="62dd638b-fe13-4449-96ab-a0c9bf409247" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/fiveHundredNine/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/seventy/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/fiveThree/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yengchihang/fiveThree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yengchihang/fiftyThree/Solution.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1T1K7hX3egIXAKdMjm4iC61BDyR" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -23,10 +32,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yengchihang.fiveHundredNine" />
+      <recent name="com.yengchihang.seventy" />
       <recent name="com.yengchihang.fiveThree" />
       <recent name="com.yengchihang.five" />
       <recent name="com.yengchihang.three" />
-      <recent name="com.yengchihang.two" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -41,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -77,12 +87,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yengchihang.fiveThree.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.yengchihang.seventy.Solution" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yengchihang.fiveThree.*" />
+          <option name="PATTERN" value="com.yengchihang.seventy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +114,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yengchihang.one.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yengchihang.fiveHundredNine.Solution" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yengchihang.one.*" />
+          <option name="PATTERN" value="com.yengchihang.fiveHundredNine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yengchihang.fiftyThree.Solution" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yengchihang.fiftyThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -185,10 +209,22 @@
       <workItem from="1573097227960" duration="598000" />
       <workItem from="1573197802534" duration="646000" />
       <workItem from="1573373628732" duration="6684000" />
+      <workItem from="1573524870776" duration="4180000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
