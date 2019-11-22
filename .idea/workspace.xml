@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62dd638b-fe13-4449-96ab-a0c9bf409247" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/eleven/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/fifteen/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/sixthFour/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/seventeen/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/thirtyNine/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/fiftyThree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/fiftyThree/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/five/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/five/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/fiveHundredNine/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/fiveHundredNine/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/one/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/one/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/seventy/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/seventy/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/sixthTwo/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/sixthTwo/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/three/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/three/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/two/Solution$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/two/Solution$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/two/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/two/Solution.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +33,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yengchihang.thirtyNine" />
+      <recent name="com.yengchihang.seventeen" />
       <recent name="com.yengchihang.fifteen" />
       <recent name="com.yengchihang.eleven" />
       <recent name="com.yengchihang.sixthFour" />
-      <recent name="com.yengchihang.sixthTwo" />
-      <recent name="com.yengchihang.fiveHundredNine" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -99,13 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yengchihang.fiveHundredNine.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yengchihang.seventeen.Solution" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yengchihang.fiveHundredNine.*" />
+          <option name="PATTERN" value="com.yengchihang.seventeen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,13 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yengchihang.sixthTwo.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yengchihang.thirtyNine.Solution" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yengchihang.sixthTwo.*" />
+          <option name="PATTERN" value="com.yengchihang.thirtyNine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (5)" />
-      <item itemvalue="Application.Solution (6)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (6)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +204,9 @@
       <workItem from="1573800462574" duration="1140000" />
       <workItem from="1574077523480" duration="3493000" />
       <workItem from="1574179757465" duration="2659000" />
+      <workItem from="1574251213326" duration="3779000" />
+      <workItem from="1574426545540" duration="1165000" />
+      <workItem from="1574434069088" duration="4083000" />
     </task>
     <servers />
   </component>
