@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62dd638b-fe13-4449-96ab-a0c9bf409247" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/seventeen/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/thirtyNine/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/fortySix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yengchihang/seventyEight/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/thirtyNine/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/yengchihang/thirtyNine/Solution.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +25,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T1K7hX3egIXAKdMjm4iC61BDyR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -33,42 +40,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yengchihang.fortySix" />
+      <recent name="com.yengchihang.seventyEight" />
       <recent name="com.yengchihang.thirtyNine" />
       <recent name="com.yengchihang.seventeen" />
       <recent name="com.yengchihang.fifteen" />
-      <recent name="com.yengchihang.eleven" />
-      <recent name="com.yengchihang.sixthFour" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yengchihang.eleven.Solution" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yengchihang.eleven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,13 +96,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yengchihang.sixthFour.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yengchihang.seventyEight.Solution" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yengchihang.sixthFour.*" />
+          <option name="PATTERN" value="com.yengchihang.seventyEight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yengchihang.fortySix.Solution" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yengchihang.fortySix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,21 +156,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -207,6 +214,10 @@
       <workItem from="1574251213326" duration="3779000" />
       <workItem from="1574426545540" duration="1165000" />
       <workItem from="1574434069088" duration="4083000" />
+      <workItem from="1575272081714" duration="6934000" />
+      <workItem from="1575357852701" duration="864000" />
+      <workItem from="1575392064805" duration="63000" />
+      <workItem from="1576421689239" duration="4290000" />
     </task>
     <servers />
   </component>
@@ -225,5 +236,47 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1576426814655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576426814655" />
+    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1576426816843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816843" />
+    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1576426816843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816843" />
+    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1576426816843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816843" />
+    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1576426816843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816843" />
+    <state width="1877" height="337" key="GridCell.Tab.1.bottom" timestamp="1576426816844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816844" />
+    <state width="1877" height="337" key="GridCell.Tab.1.center" timestamp="1576426816843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816843" />
+    <state width="1877" height="337" key="GridCell.Tab.1.left" timestamp="1576426816843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816843" />
+    <state width="1877" height="337" key="GridCell.Tab.1.right" timestamp="1576426816843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576426816843" />
+    <state x="661" y="146" key="refactoring.ChangeSignatureDialog" timestamp="1576425304940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="146" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576425304940" />
   </component>
 </project>
